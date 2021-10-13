@@ -34,6 +34,9 @@ public class EncryptUtils {
     private static final String TIME = "time";
     private static final String TARGET = "target";
 
+    //默认user id
+    private static final String DEFAULT_USER_ID = "userId";
+
     //TODO: 全改小写
 //    private static final String USER_ID = "user_id";
 //    private static final String NAME = "name";
@@ -46,9 +49,6 @@ public class EncryptUtils {
 //    private static final String RECEIVE_ACCOUNT = "receive_account";
 //    private static final String TIME = "time";
 //    private static final String TARGET = "target";
-
-    //默认user id
-    private static final String DEFAULT_USER_ID = "userId";
 
     static {
         issuerClient = new IssuerClient();
