@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42b8d383-6930-428e-925e-e1df15aa26d5" name="Changes" comment="commit encryption v1.1 based on WeDPR" />
+    <list default="true" id="42b8d383-6930-428e-925e-e1df15aa26d5" name="Changes" comment="commit encryption v1.1 based on WeDPR">
+      <change beforePath="$PROJECT_DIR$/src/main/java/encryption/TransformUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encryption/TransformUtils.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +147,7 @@
       <updated>1634027794911</updated>
       <workItem from="1634027796485" duration="19028000" />
       <workItem from="1634089693206" duration="4445000" />
-      <workItem from="1634094700627" duration="632000" />
+      <workItem from="1634094700627" duration="745000" />
     </task>
     <task id="LOCAL-00001" summary="commit encryption v1.0 based on WeDPR">
       <created>1634093413737</created>

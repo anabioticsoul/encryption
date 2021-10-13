@@ -17,7 +17,7 @@ public class TransformUtils {
             if (i < 0) {
                 i += 256;
             }
-            //大于127为负数
+            //大于127为负数，小于127为正数
             if (i > 127) {
                 //System.err.println("负数:" + i);
             } else {
